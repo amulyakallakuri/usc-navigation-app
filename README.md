@@ -1,5 +1,5 @@
 # **Amulya Kallakuri, Nithyashree Manohar**
-# **Project Title: Trojan Map**
+# **Trojan Map - Complete C++ Application for Navigating The University of Southern California**
 
 ## **Functions Implemented:** 
 
